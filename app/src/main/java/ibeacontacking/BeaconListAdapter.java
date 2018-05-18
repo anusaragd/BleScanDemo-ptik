@@ -1,16 +1,15 @@
-package com.minewbeacon.blescan.demo;
+package ibeacontacking;
 
 
-import android.app.Activity;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.widget.Toast;
 
+import com.example.anusara.ibeacontacking.R;
 import com.minew.beacon.BeaconValueIndex;
 import com.minew.beacon.MinewBeacon;
-import com.yuliwuli.blescan.demo.R;
+
 
 import java.util.ArrayList;
 import java.util.List;

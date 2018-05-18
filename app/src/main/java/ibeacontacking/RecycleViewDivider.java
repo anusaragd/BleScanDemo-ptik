@@ -1,4 +1,4 @@
-package com.minewbeacon.blescan.demo;
+package ibeacontacking;
 
 import android.content.Context;
 import android.content.res.TypedArray;

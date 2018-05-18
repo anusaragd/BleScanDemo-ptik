@@ -1,7 +1,7 @@
-package com.minewbeacon.blescan.demo;
+package ibeacontacking;
 
-import com.minew.beacon.MinewBeacon;
 import com.minew.beacon.BeaconValueIndex;
+import com.minew.beacon.MinewBeacon;
 
 import java.util.Comparator;
 

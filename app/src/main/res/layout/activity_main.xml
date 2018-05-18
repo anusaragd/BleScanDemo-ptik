@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.minewbeacon.blescan.demo.MainActivity">
+    tools:context="com.example.anusara.ibeacontacking.MainActivity">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
